@@ -17,5 +17,24 @@ header {
 header h1 {
     margin: 0 auto;
     padding: 20px;
-    font-size: 2.25em;
+    font-size: 0.75em;
+}
+#general-main {
+    flex-wrap: wrap;
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+.div-p {
+    padding: 10px;
+    font-size: 0.50em;
+}
+.main-div, #main-div {
+    max-width: 200px;
+    max-height: 200px;
+    margin: 10px;
+    background-color: #FFFFFF;
+}
+#main-div img {
+    width: 100px;
 }
