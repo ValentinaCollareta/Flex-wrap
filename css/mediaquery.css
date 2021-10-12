@@ -1,14 +1,21 @@
 @media only screen and (min-width: 768px) {
     /* For tablets: */
-    
+    body {
+        background-color: #FFC300;
+    }
 }
 @media only screen and (min-width: 992px) {
     /* For desktops: */
+    body {
+        background-color: #C70039;
+    }
     header h1 {
         font-size: 2.25em;
     }
 }
 @media only screen and (min-width: 1200px) {
     /* For large desktops/tv: */
-    
+    body {
+        background-color: #900C3F;
+    }
 }
